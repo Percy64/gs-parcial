@@ -5,3 +5,4 @@ proceso del desarrollo de software
 4. Pruebas
 5. Despliegue
 6. Mantenimiento
+"parcial avanzado"
